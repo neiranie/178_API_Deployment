@@ -1,29 +1,32 @@
-**1) Register**
-<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/21da374d-ab0a-4dfe-8756-b37cad91ea07" />
+**1) POST Register**
+<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/12c7a894-133c-46e0-962c-5a2be191d835" />
 
-**2) Login**
-<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/8bd3377a-ce08-4495-a899-d309333dbc7a" />
+**2) POST Login**
+<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/cf5816c2-5564-4bf8-abe6-9d3284f108f9" />
 
-**3) Create Genre**
-<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/36f1718c-9984-416d-9460-574e3e48afca" />
+**3) POST Genre**
+<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/63ea9297-d677-4ee3-b502-876c52168c76" />
 
-**4) Create Komik**
-<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/cbfd30ee-fdf7-42f3-a303-e5e50c99d678" />
+**4) GET Genre**
+<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/f9ef423c-c1ac-4045-8373-bd1e573425c4" />
 
-**5) Get Komik**
-<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/8b0b3697-fb7f-41c6-91c8-f34f39f5c0e4" />
+**5) PUT Genre**
+<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/73cbb235-2bc2-486f-8d62-eb9d04032c40" />
 
-**6) Put (Update) Komik**
-<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/13b15eb2-667f-44e5-938f-95f2399e0ccc" />
+**6) POST Komik**
+<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/e8ce7f94-e374-4aad-8a96-6d19e5d343bc" />
 
-**7) Delete Komik**
-<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/84a27562-39a4-4dab-a335-6852e5788619" />
+**7) GET Komik**
+<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/e8965485-d691-47b4-b66e-372b5b698aed" />
 
-**8) Get Genre**
-<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/e6cfde8a-988a-40a1-8400-1e556565f943" />
+**8) PUT Komik**
+<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/38382b97-5c96-4bde-a03d-ad438a9bc9d1" />
 
-**9) Put (Update) Genre**
-<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/67d621e5-8cce-480d-945d-fbec121debae" />
+**9) DELETE Genre**
+<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/5a15ed59-18ec-41cc-bed6-48cd2cef39ad" />
 
-**10) Delete Genre**
-<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/517b0c42-978a-42e5-a0e1-a963f963ea9b" />
+**10) DELETE Komik**
+<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/6c71edb0-8384-4359-a90f-ab29f140f1c5" />
+
+**11) Dashboard Vercel**
+<img width="3072" height="1920" alt="image" src="https://github.com/user-attachments/assets/92728f99-162f-4433-86f1-279862962153" />
